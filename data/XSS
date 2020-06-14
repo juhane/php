@@ -1,0 +1,2 @@
+Cross Site Scripting Test
+<script>location.href="https://www.google.com"</script>
